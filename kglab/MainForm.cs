@@ -23,7 +23,7 @@ namespace kglab {
             updateCube();
         }
 
-
+        //Обновление куба
         private void updateCube() {
             int xn = (int)nudTX.Value;
             int yn = (int)nudTY.Value;
