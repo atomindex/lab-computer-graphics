@@ -1,0 +1,12 @@
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\bin\Debug\kglab.exe.config
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\bin\Debug\kglab.exe
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\bin\Debug\kglab.pdb
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\obj\Debug\kglab.csprojResolveAssemblyReference.cache
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\obj\Debug\kglab.Properties.Resources.resources
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\obj\Debug\kglab.csproj.GenerateResource.Cache
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\obj\Debug\kglab.exe
+c:\users\atom\documents\visual studio 2013\Projects\kglab\kglab\obj\Debug\kglab.pdb
+c:\Users\Atom\Documents\Visual Studio 2013\Projects\kglab\kglab\obj\Debug\kglab.MainForm.resources
+D:\Atom\Education\ПРО\ПРО-306\-kg\complete\kglab\kglab\bin\Debug\kglab.exe.config
+D:\Atom\Education\ПРО\ПРО-306\-kg\complete\kglab\kglab\obj\Debug\kglab.exe
+D:\Atom\Education\ПРО\ПРО-306\-kg\complete\kglab\kglab\obj\Debug\kglab.pdb
